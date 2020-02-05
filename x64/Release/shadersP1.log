@@ -1,0 +1,2 @@
+﻿  shadersP1.cpp
+C:\Users\Moise\Desktop\Shaders\shadersP1\shadersP1.cpp(5,10): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
