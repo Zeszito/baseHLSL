@@ -1,3 +1,1 @@
-﻿  shadersP1.cpp
-C:\Users\Moise\Desktop\baseForShader\shadersP1\shadersP1.cpp(8,44): warning C4305: 'initializing': truncation from 'double' to 'float'
-  shadersP1.vcxproj -> C:\Users\Moise\Desktop\baseForShader\shadersP1\x64\Debug\shadersP1.exe
+﻿  shadersP1.vcxproj -> C:\Users\Moise\Desktop\baseForShader\shadersP1\baseHLSL\x64\Debug\shadersP1.exe
