@@ -1,0 +1,3 @@
+﻿  baseAPP2017Sha.cpp
+c:\users\moise\desktop\baseforshader\shadersp1\basehlsl\repofor2017\baseapp2017sha\baseapp2017sha\baseapp2017sha.cpp(5): warning C4305: 'initializing': truncation from 'double' to 'float'
+  baseAPP2017Sha.vcxproj -> C:\Users\Moise\Desktop\baseForShader\shadersP1\baseHLSL\RepoFor2017\baseAPP2017Sha\x64\Debug\baseAPP2017Sha.exe
