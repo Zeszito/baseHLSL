@@ -4,17 +4,13 @@
 #include <iostream>
 #include <GLFW/glfw3.h>
 
-const float steps = 1000;
-const float angle = 3.1415925 * 2.f / steps;
+
 
 void drawTriangle() {
     glBegin(GL_TRIANGLES);
 
 
-    glColor3f(0.f, 1.0f, 0.0f);
-    glVertex3f(1, 0, 0);
-    glVertex3f(-1, 0, 0);
-    glVertex3f(0, 1, 0);
+   
 
 
     glEnd();
